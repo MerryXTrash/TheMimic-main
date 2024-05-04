@@ -1,5 +1,5 @@
 local games = {
-    [11268121492] = 'https://raw.githubusercontent.com/MerryXTrash/Freetiem/main/Ao-Adventure',
+    [11268121492] = 'https://raw.githubusercontent.com/MerryXTrash/Freetiem/main/Ao-Adventure', --Ao free
     [6296321810] = 'https://raw.githubusercontent.com/ImNotFatBitch/ConquerorChampionss/main/ConquerorChampions', --1.1
     [6301638949] = 'https://raw.githubusercontent.com/ImNotFatBitch/Buildingtowers/main/Buildingtowers', --1.2
     [6373539583] = 'https://raw.githubusercontent.com/ImNotFatBitch/Buildingtowers/main/Buildingtowers', --2.1
